@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ananda.mitblr2023@learner.manipal.edu**
 
-- ⚡ Fun fact **The One Piece is Real!**
+- ⚡ Fun fact **The One Piece is Real! Siuuuuu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
