@@ -2,24 +2,19 @@
 
 # 💫 About Me:
 CSE undergraduate at **Manipal Academy of Higher Education**, passionate about building scalable web apps and exploring the world of **AI, full-stack dev, and automation**.  
-I love turning ideas into code that *actually works* (most of the time ☕💻).
+I love turning caffeine and ideas into code that *actually works* (most of the time ☕💻).
+
+
 
 ## 🚀 What I'm Up To
 
 - 🤖 Working on AI & Machine Learning projects with **Python** and **scikit-learn**
 - 🌐 Building full-stack apps using **Next.js**, **TypeScript**, and **Supabase**
-- 🧠 Designing and optimizing **backend systems** with **Node.js**, **Express**, and **MongoDB**
+- 🧠 Designing and optimizing **backend systems** with **Node.js**, **Express**, and **PostgreSQL**
 - 💡 Always tinkering with new tech, refining dev workflows, and pushing cleaner, faster code
 
----
-
-## 🎓 Beyond Code
-
-When I’m not debugging life, I share my learning journey and dev experiments through projects and open-source contributions.  
-Currently exploring **AI dev tools**, **backend optimization**, and **system design fundamentals**.
 
 ---
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananda-prem/)
 
@@ -53,7 +48,7 @@ Currently exploring **AI dev tools**, **backend optimization**, and **system des
 ---
 
 ### ⚡ Fun Fact:
-If it’s not broken, I’ll still refactor it just to learn something new.
+The One Piece is Real. Siuuuu
 
 ---
 
