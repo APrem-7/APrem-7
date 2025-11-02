@@ -10,6 +10,7 @@ I love turning caffeine and ideas into code that *actually works* (most of the t
 
 - 🤖 Working on AI & Machine Learning projects with **Python** and **scikit-learn**
 - 🌐 Building full-stack apps using **Next.js**, **TypeScript**, and **Supabase**
+- Exploring App development Using **React Native**
 - 🧠 Designing and optimizing **backend systems** with **Node.js**, **Express**, and **PostgreSQL**
 - 💡 Always tinkering with new tech, refining dev workflows, and pushing cleaner, faster code
 
